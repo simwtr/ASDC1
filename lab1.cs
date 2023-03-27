@@ -3,7 +3,7 @@ using System.IO;
 
 public class Record
 {
-    public int Id { get; set; }  // уникальный ключевой поле
+    public int Id { get; set; }  // уникальное ключевое поле
     public string Name { get; set; }
     public int Age { get; set; }
     public bool IsActive { get; set; }
